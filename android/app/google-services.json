@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94786154129",
+    "project_id": "techcorses",
+    "storage_bucket": "techcorses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94786154129:android:252b1752ba2e9c03a41930",
+        "android_client_info": {
+          "package_name": "tech.coreses.elmaghara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94786154129-1itceqghpr64sfqo95sttsd8j348hd9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrEpZapNZAxidqszpCeBS0U-7-5-Fbm3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94786154129-1itceqghpr64sfqo95sttsd8j348hd9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
